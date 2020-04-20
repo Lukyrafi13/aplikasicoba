@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/receipt"
+        android:icon="@drawable/ic_receipt_black_24dp"
+        android:title="Receipt" />
+    <item
+        android:id="@+id/restaurant"
+        android:icon="@drawable/ic_restaurant_black_24dp"
+        android:title="Restaurant" />
+    <item
+        android:id="@+id/createresep"
+        android:icon="@drawable/ic_edit_black_24dp"
+        android:title="Create Receipt" />
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Account" />
+</menu>
